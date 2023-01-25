@@ -6,6 +6,5 @@
 
 ---
 
-| <a href="https://github.com/GODSROBOT/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GODSROBOT&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="GODS ROBOT'S github stats" /></a> | <a href="https://github.com/GODSROBOT/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GODSROBOT&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/godsrobot/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GODSROBOT&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="GODS ROBOT'S github stats" /></a> | <a href="https://github.com/GODSROBOT/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GODSROBOT&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
