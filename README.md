@@ -1,5 +1,5 @@
-## Hey [![wave](https://cdn.discordapp.com/attachments/1036996206615867473/1156131691522441236/man-raising-hand-joypixels_1.gif?ex=6513db0b&is=6512898b&hm=25f6a116e8b086cecc50f456ead16c292b5e2841f291184fb559d72acdd4aeb9&)](https://cdn.discordapp.com/attachments/1036996206615867473/1156131691522441236/man-raising-hand-joypixels_1.gif?ex=6513db0b&is=6512898b&hm=25f6a116e8b086cecc50f456ead16c292b5e2841f291184fb559d72acdd4aeb9&)
-I’m just a passionate coder and a keen learner.
+## Hey [![wave](https://c.tenor.com/QJP_QPYxoPsAAAAC/wave-panda.gif?ex=6513db0b&is=6512898b&hm=25f6a116e8b086cecc50f456ead16c292b5e2841f291184fb559d72acdd4aeb9&)](https://c.tenor.com/QJP_QPYxoPsAAAAC/wave-panda.gif?ex=6513db0b&is=6512898b&hm=25f6a116e8b086cecc50f456ead16c292b5e2841f291184fb559d72acdd4aeb9&)
+I’m just Noob coder and I Try to keep learing about coding. I love Panda ! 🐼
 
 
 ## Socials:
