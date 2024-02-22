@@ -15,6 +15,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/adobepremierepro-%2331A8FF.svg?style=flat&logo=adobepremierepro&logoColor=white)
 # GitHub Stats 📊:
-![](https://github-readme-stats.vercel.app/api?username=GODSROBOT&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=GODSROBOT&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GODSROBOT&theme=react&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GODSROBOT&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
