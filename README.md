@@ -1,5 +1,4 @@
-## Hey <h1>[![wave](https://c.tenor.com/QJP_QPYxoPsAAAAC/wave-panda.gif?ex=6513db0b&is=6512898b&hm=25f6a116e8b086cecc50f456ead16c292b5e2841f291184fb559d72acdd4aeb9&)]<h1>
-(https://c.tenor.com/QJP_QPYxoPsAAAAC/wave-panda.gif?ex=6513db0b&is=6512898b&hm=25f6a116e8b086cecc50f456ead16c292b5e2841f291184fb559d72acdd4aeb9&)
+![wave](https://c.tenor.com/QJP_QPYxoPsAAAAC/wave-panda.gif?ex=6513db0b&is=6512898b&hm=25f6a116e8b086cecc50f456ead16c292b5e2841f291184fb559d72acdd4aeb9&)](https://c.tenor.com/QJP_QPYxoPsAAAAC/wave-panda.gif?ex=6513db0b&is=6512898b&hm=25f6a116e8b086cecc50f456ead16c292b5e2841f291184fb559d72acdd4aeb9&)
 I’m just Noob coder and I Try to keep learing about coding. I love Panda ! 🐼
 
 
