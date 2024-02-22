@@ -8,13 +8,13 @@
 [![Discord](https://img.shields.io/badge/Discord-587DF2.svg?logo=Discord&logoColor=white)](https://discord.com/invite/FfarQVQst7) 
 
 ## </> Languages :
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=dark)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=dark)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=dark)
-![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=flat&logo=unity&logoColor=dark)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=dark)
-![Adobe Premiere Pro](https://img.shields.io/badge/adobepremierepro-%2331A8FF.svg?style=flat&logo=adobepremierepro&logoColor=dark)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white)
+![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=flat&logo=unity&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/adobepremierepro-%2331A8FF.svg?style=flat&logo=adobepremierepro&logoColor=white)
 # GitHub Stats 📊:
-![](https://github-readme-stats.vercel.app/api?username=GODSROBOT&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GODSROBOT&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=GODSROBOT&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GODSROBOT&theme=tokyonight&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GODSROBOT&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
