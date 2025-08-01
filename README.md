@@ -50,7 +50,7 @@ A clean, mobile-friendly, theme-toggle portfolio showcasing who I am, what I kno
 <!-- Uncomment if you want to show top languages -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GODSROBOT&theme=vision-friendly-dark&hide_border=false&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GODSROBOT&theme=vision-friendly-dark&hide_border=false&layout=compact) -->
 
 
 ---
