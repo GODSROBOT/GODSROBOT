@@ -43,9 +43,8 @@ A clean, mobile-friendly, theme-toggle portfolio showcasing who I am, what I kno
 
 ## 🔗 Connect With Me
 
-* 📢 Email: [manvith.codes@gmail.com](mailto:manvith.codes@gmail.com)
+* 📢 Email: [manvithsagar10@gmail.com@](mailto:manvithsagar10@gmail.com)
 * 🔙 GitHub: [@GODSROBOT](https://github.com/GODSROBOT)
-* 🐍 PythonAnywhere: godsrobot.pythonanywhere.com
 
 ---
 
