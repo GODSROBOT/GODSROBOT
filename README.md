@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-I'm an enthusiastic **developer, tinkerer, and curious learner** with a love for building things that people can interact with. Whether it's a smart bot, a sleek portfolio, or a backend automation tool, I enjoy solving real-world problems with code.
+I'm an enthusiastic **developer, thinkerer, and curious learner** with a love for building things that people can interact with. Whether it's a smart bot, a sleek portfolio, or a backend automation tool, I enjoy solving real-world problems with code.
 
 > *Currently exploring Python deeply, with interests in AI, automation, and creative web apps.*
 
@@ -43,7 +43,7 @@ A clean, mobile-friendly, theme-toggle portfolio showcasing who I am, what I kno
 
 ## 🔗 Connect With Me
 
-* 📢 Email: [manvithsagar10@gmail.com@](mailto:manvithsagar10@gmail.com)
+* 📢 Email: [manvithsagar10@gmail.com](mailto:manvithsagar10@gmail.com)
 * 🔙 GitHub: [@GODSROBOT](https://github.com/GODSROBOT)
 
 ---
@@ -58,12 +58,6 @@ A clean, mobile-friendly, theme-toggle portfolio showcasing who I am, what I kno
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GODSROBOT&theme=vision-friendly-dark&hide_border=false&layout=compact) -->
 
-
----
-
-## 💡 In Progress
-
-* 🎯 Mastering Python
 
 ---
 
