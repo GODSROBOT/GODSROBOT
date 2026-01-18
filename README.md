@@ -16,7 +16,7 @@ And yes... I love Pandas 🐼
 
 ## 🚀 Live Portfolio
 
-🔗 [godsrobot.github.io](https://godsrobot.github.io)
+🔗 [godsrobot.online](godsrobot.online)
 
 A clean, mobile-friendly, theme-toggle portfolio showcasing who I am, what I know, and what I build.
 
@@ -48,10 +48,6 @@ A clean, mobile-friendly, theme-toggle portfolio showcasing who I am, what I kno
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GODSROBOT\&theme=vision-friendly-dark\&hide_border=false\&include_all_commits=false\&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GODSROBOT\&theme=vision-friendly-dark\&hide_border=false)
 
 <!-- Uncomment if you want to show top languages -->
 
