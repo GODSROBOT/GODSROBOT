@@ -1,60 +1,55 @@
-# 👋 Hello World, I'm Manvith (a.k.a. Gods\_Robot)
+# 👋 Hello World, I'm Manvith (a.k.a. Gods Robot)
 
 <img src="https://c.tenor.com/QJP_QPYxoPsAAAAC/wave-panda.gif" width="150"/>
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me & Gods Development
 
-I'm an enthusiastic **developer, thinkerer, and curious learner** with a love for building things that people can interact with. Whether it's a smart bot, a sleek portfolio, or a backend automation tool, I enjoy solving real-world problems with code.
+I am the lead developer behind **Gods Development**, a specialized creative hub for high-impact AI and full-stack web solutions. I'm an enthusiastic **developer, tinkerer, and curious learner** with a passion for building intelligent systems.
 
-> *Currently exploring Python deeply, with interests in AI, automation, and creative web apps.*
+> *Currently scaling **Gods Development** with a focus on Python-driven AI automation, Next.js web experiences, and creative problem-solving.*
 
-And yes... I love Pandas 🐼
-
----
-
-## 🚀 Live Portfolio
-
-🔗 [godsrobot.online](godsrobot.online)
-
-A clean, mobile-friendly, theme-toggle portfolio showcasing who I am, what I know, and what I build.
+And yes... I still love Pandas 🐼
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Official Website
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+🔗 [godsrobot.online](https://godsrobot.online)
+
+**Gods Development** is my official portfolio showcasing intelligent web applications, AI integrations, and technical case studies. Built with Next.js and high-performance GSAP animations.
+
+---
+
+## 🛠️ Technical Arsenal
+
+### Frontend & UI
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Backend & AI
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Database & DevOps
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 🔗 Connect With Me
 
-* 📢 Email: [manvithsagar10@gmail.com](mailto:manvithsagar10@gmail.com)
-* 🔙 GitHub: [@GODSROBOT](https://github.com/GODSROBOT)
+* 🌐 **Portfolio:** [godsrobot.online](https://godsrobot.online)
+* 📢 **Email:** [manvithsagar10@gmail.com](mailto:manvithsagar10@gmail.com)
+* 📸 **Instagram:** [@gods_developement](https://instagram.com/gods_developement)
 
 ---
 
-
-<!-- Uncomment if you want to show top languages -->
-
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GODSROBOT&theme=vision-friendly-dark&hide_border=false&layout=compact) -->
-
-
----
-
-> Made with ❤️ by Manvith a.k.a. Gods\_Robot
+> Engineered with ❤️ by **Gods Robot** at **Gods Development**
